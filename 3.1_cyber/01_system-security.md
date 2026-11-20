@@ -61,15 +61,20 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bce7e152-761f-43ab-bf3b-12a4a7e4e6f7" />
+
 
 ### Questions
 
 1.  Which ports are open?
+Ans= read the local address: port column for rows in LISTEN (tcp) or UNCONN (udp) state, e.g. 22(ssh)
 2.  Which services appear to be listening?
+   ans= Match each port to its service, e.g. 22 = sshd 
 3.  Why might open ports represent a security risk?
+ ans= Each open port is a way in from the network. If the service behind it is outdated, misconfigured or has weak credentials, an attacker can exploit it to gain access, steal data or run code
 
 ### Reflection
 
 Explain the relationship between open ports and potential attack
 surfaces.
+ans= Every open ports is a possible entry point, so more open ports means larger attack surface. closing unused services and using a firewall reduces the ways an attacker can get in.
