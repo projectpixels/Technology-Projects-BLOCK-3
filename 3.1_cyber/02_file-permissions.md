@@ -33,12 +33,15 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/720258f4-7dee-4417-9af2-a544e495f389" />
+
 
 ### Questions
 
 1.  Who can read the file now?
-2.  Who cannot access it?
+   ans= bitmasters
+3.  Who cannot access it?
+4. ans= the group and all other users have no read, write or execute access.
 
 
 ------------------------------------------------------------------------
