@@ -40,8 +40,8 @@ Run:
 
 1.  Who can read the file now?
    ans= bitmasters
-3.  Who cannot access it?
-4. ans= the group and all other users have no read, write or execute access.
+2.  Who cannot access it?
+   ans= the group and all other users have no read, write or execute access.
 
 
 ------------------------------------------------------------------------
@@ -55,10 +55,12 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/153bb83f-3fe3-41a7-83b6-2ad4cb53b9de" />
+
 
 ### Questions
 
 1.  Who can access the file now?
-2.  Why might this configuration be dangerous?
-
+   ans= Everyone
+3.  Why might this configuration be dangerous?
+ans= Any user or compromised process on the system can read the secret data, modify or delete the file, or replace it with malicious content.
