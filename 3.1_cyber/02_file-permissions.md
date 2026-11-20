@@ -9,17 +9,19 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bc477855-a5ca-4034-ba8f-5cb48b5ccfbd" />
+
 
 ### Questions
 
 1.  Who owns the file?
-2.  What are the default permissions?
-
+   ans= The user who created it, shown in the 3rd column of ls-l
+3.  What are the default permissions?
+    ans= Usually -rw-r--r-- (644)
 ### Reflection
 
 Why is file ownership important in Linux systems?
-
+ans= File ownership decides who can read, change or run a file. It enforces access control, so users can't access each other's file and a compromised account can only reach what that user owns.
 ------------------------------------------------------------------------
 
 ## Task 2 --- Restrict File Permissions
