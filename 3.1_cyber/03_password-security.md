@@ -8,17 +8,19 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/78df2e8d-0670-4a6c-972d-f100dbb3bde0" />
+
 
 ### Questions
 
 1.  What does the tool say about the password?
+   ans= It rejects it, saying it is based on a dictionary word.
 2.  Why is this password weak?
-
+ans =  It is a common dictionary word with a predictable number added, so attackers can guess it quickly with wordlists and brute force.
 ### Reflection
 
 Explain why weak passwords are dangerous.
-
+ans= Weak password are easy to guess or crack, which lets attackers take over accounts, steal data and move through a system.
 ------------------------------------------------------------------------
 
 ## Task 2 --- Test a Strong Password
