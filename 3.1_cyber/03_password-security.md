@@ -31,17 +31,19 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a5979a24-e5b5-4745-8f15-aab05f0bc779" />
+
 
 ### Questions
 
 1.  What result did the tool return?
+   ans= Ok
 2.  What characteristics make this password stronger?
-
+ans= It is long, mixes upper and lower case letter, numbers and a symbol.
 ### Reflection
 
 Describe at least three characteristics of strong passwords.
-
+ans= Strong passwords are long (12+ characters), mix upper and lower case letter, numbers, symbols.
 ------------------------------------------------------------------------
 
 ## Task 3 --- Password Analysis
