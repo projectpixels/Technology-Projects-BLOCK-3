@@ -31,14 +31,18 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 ### Questions
 
 1.  Who appears to be the sender?
-2.  Does the email create urgency or pressure?
-3.  Are there spelling or grammar mistakes?
-4.  Does the link match the organisation domain?
+  ans = security team.
+3.  Does the email create urgency or pressure?
+   ans = yes, it creates pressure.
+5.  Are there spelling or grammar mistakes?
+   ans = yes, spelling and grammar errors.
+7.  Does the link match the organisation domain?
+   ans = no,the link looks suspicious does not match an official domain.
 
 ### Reflection
 
 Explain why attackers use phishing emails.
-
+Attackers use phishing emails to steal personal information,passwords and banking details by tricking people into clicking fake links.
 ------------------------------------------------------------------------
 
 ## Task 2 --- Link Inspection
