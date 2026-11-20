@@ -58,9 +58,15 @@ Evaluate the following passwords:
 ### Questions
 
 1.  Which passwords are weak?
-2.  Which password is strongest?
-3.  Why?
+ans= 123456 and qwerty
+3.  Which password is strongest?
+   ans=  P@ssword1 and correcthorsebatterystaple
+
+5.  Why?
+   ans= P@ssword1 and correcthorsebatterystaple are the strongest because in this password has upper and lower case letter , and numbers, and symbols and long also so it is hard to guess it and 123456 and qwerty these are the weak password because these password can easily guess 
+   
 
 ### Reflection
 
 Explain what you learned about password strength.
+password strength means making the strong password with long (12+ characters), mix upper and lower case letter, numbers, symbols.It helps protect our data and protect our privacy.
